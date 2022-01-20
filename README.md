@@ -1,1 +1,1 @@
-# extension
+# Useful extension
